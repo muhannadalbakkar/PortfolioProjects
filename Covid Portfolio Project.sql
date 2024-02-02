@@ -1,5 +1,5 @@
-
---select Data that we ar going to be using
+-- Source of the dataset is Ourworldindata.org/covid-deaths
+-- select Data that we ar going to be using
 
 Select location, date, total_cases, new_cases, total_deaths, population
 From PortfolioProject..CovidDeaths
